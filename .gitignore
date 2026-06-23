@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# Claude / Gemini AI
+.claude/
+.gemini/
+
+# Arduino 编译缓存
+build/
+*.elf
+*.bin
