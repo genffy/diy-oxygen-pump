@@ -14,3 +14,7 @@
 build/
 *.elf
 *.bin
+
+# 本地密钥(.env.local 手写,globals.h 由 scripts/flash.sh 生成)
+.env.local
+oxygen_pump/oxygen_pump.ino.globals.h
